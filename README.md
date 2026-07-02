@@ -71,8 +71,7 @@ The Python module includes:
 * Sales Dashboard
 
 ### Dashboard Preview
-
-> *(Replace the image below with your dashboard screenshot after uploading.)*
+![Python Dashboard](Python/Sales_Dashboard.png)
 
 ```
 Python/Sales_Dashboard.png
