@@ -128,30 +128,4 @@ The project analyzes:
 * Yearly and monthly sales trends.
 * Top-performing products and customers.
 
----
 
-## 📌 Project Status
-
-🚧 **Currently In Progress**
-
-Completed:
-
-* ✅ Data Cleaning
-* ✅ Python EDA
-* ✅ Python Dashboard
-* ✅ MySQL Database
-* ✅ Basic & Intermediate SQL Queries
-
-Upcoming:
-
-* ⏳ Advanced SQL
-* ⏳ Power BI Dashboard
-* ⏳ Final Business Report
-
----
-
-## 👩‍💻 Author
-
-**Sweety P**
-
-GitHub: https://github.com/sweetyp18
