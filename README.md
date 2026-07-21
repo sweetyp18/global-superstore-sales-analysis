@@ -106,8 +106,7 @@ SQL was used to perform business analysis and answer real-world business questio
 
 📄 SQL File
 
-[SQL File](SQL/Superstore_SQL_Practice.sql)
----
+[View SQL Queries](./SQL/Superstore_SQL_Queries.sql)
 
 # 📊 Power BI Dashboard
 
