@@ -106,10 +106,7 @@ SQL was used to perform business analysis and answer real-world business questio
 
 📄 SQL File
 
-```text
-SQL/Superstore_SQL_Practice.sql
-```
-
+[SQL File](SQL/Superstore_SQL_Practice.sql)
 ---
 
 # 📊 Power BI Dashboard
@@ -133,7 +130,7 @@ An interactive Power BI dashboard was developed to analyze retail sales performa
 * 
 ### Dashboard Preview
 
-![PowerBI Dashboard](PowerBI/Dashboard.png)
+![ PowerBI Dashboard](PowerBI/Dashboard.png)
 PowerBI/Dashboard.png
 
 ---
